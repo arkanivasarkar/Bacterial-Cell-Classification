@@ -1,4 +1,4 @@
-# Retinal-Vessel-Segmentation-using-Variants-of-UNET
+# Bacterial-Cell-Classification
 
 This repository contains the implementation of a convolutional neural network for classifying bacterial cells into gram positive and gram negative.
 
