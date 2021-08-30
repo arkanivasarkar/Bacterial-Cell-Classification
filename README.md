@@ -22,16 +22,11 @@ The training dataset was then split into 80:20 ratio for training and validation
 Adam optimizer with a learning rate of 0.001 was used as optimizer and categorical crossentropy was used as the loss function. The models were trained for 5 epochs with a batch size of 32, using NVIDIA MX-150 GPU. 
 
 ## Results
-The performance of the models were evaluated using the test dataset.
-Out of all the models, Attention U-NET achieved a greater segmentation performance. 
+The performance of the model was evaluated using the test dataset.
+97.56% classification accuracy was obtained.
 
 
-The following table compares the performance of various models
-
-
-
-
-
+Transfer Learning was also implemented using VGG16, but it did not gave significant results.
 
 
 The trained CNN model is present in `/Trained models` folder.
