@@ -29,7 +29,7 @@ The performance of the model was evaluated using the test dataset.
 Transfer Learning was also implemented using VGG16, but it did not gave significant results.
 
 
-The trained CNN model is present in `/Trained model` folder.
+The trained CNN model is present in `Trained model` folder.
 
 
 
