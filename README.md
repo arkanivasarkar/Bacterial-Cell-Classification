@@ -19,7 +19,7 @@ Around 1500 images were generated using data augmentation for each category. 500
 
 The training dataset was then split into 80:20 ratio for training and validation.
 
-Adam optimizer with a learning rate of 0.001 was used as optimizer and categorical crossentropy was used as the loss function. The models were trained for 5 epochs with a batch size of 32, using NVIDIA MX-150 GPU. 
+Adam optimizer with a learning rate of 0.001 was used as optimizer and categorical crossentropy was used as the loss function. The models were trained for 10 epochs with a batch size of 32, using NVIDIA MX-150 GPU. 
 
 ## Results
 The performance of the model was evaluated using the test dataset.
